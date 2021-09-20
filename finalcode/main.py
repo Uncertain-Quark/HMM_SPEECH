@@ -2,7 +2,7 @@ from VQ import *
 from util import *
 from hmm_train import *
 
-source = '/Users/kommi/Desktop/HMM/Isolated_Digits'
+source = '{path to data}'
 
 # weightsave = '/Users/kommi/Desktop/HMM/weights_10'
 # if not os.path.exists(weightsave):
